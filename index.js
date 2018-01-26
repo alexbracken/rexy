@@ -78,7 +78,7 @@
      * Default game width.
      * @const
      */
-    var DEFAULT_WIDTH = 400;
+    var DEFAULT_WIDTH = 500;
 
     /**
      * Frames per second.
